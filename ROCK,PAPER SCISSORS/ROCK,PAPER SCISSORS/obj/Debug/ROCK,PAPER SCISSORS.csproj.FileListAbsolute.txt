@@ -1,0 +1,11 @@
+C:\Users\aaron\source\repos\ROCK,PAPER SCISSORS\ROCK,PAPER SCISSORS\bin\Debug\ROCK,PAPER SCISSORS.exe.config
+C:\Users\aaron\source\repos\ROCK,PAPER SCISSORS\ROCK,PAPER SCISSORS\bin\Debug\ROCK,PAPER SCISSORS.exe
+C:\Users\aaron\source\repos\ROCK,PAPER SCISSORS\ROCK,PAPER SCISSORS\bin\Debug\ROCK,PAPER SCISSORS.pdb
+C:\Users\aaron\source\repos\ROCK,PAPER SCISSORS\ROCK,PAPER SCISSORS\obj\Debug\ROCK,PAPER SCISSORS.csprojAssemblyReference.cache
+C:\Users\aaron\source\repos\ROCK,PAPER SCISSORS\ROCK,PAPER SCISSORS\obj\Debug\ROCK_PAPER_SCISSORS.Form1.resources
+C:\Users\aaron\source\repos\ROCK,PAPER SCISSORS\ROCK,PAPER SCISSORS\obj\Debug\ROCK_PAPER_SCISSORS.Properties.Resources.resources
+C:\Users\aaron\source\repos\ROCK,PAPER SCISSORS\ROCK,PAPER SCISSORS\obj\Debug\ROCK,PAPER SCISSORS.csproj.GenerateResource.cache
+C:\Users\aaron\source\repos\ROCK,PAPER SCISSORS\ROCK,PAPER SCISSORS\obj\Debug\ROCK,PAPER SCISSORS.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\ROCK,PAPER SCISSORS\ROCK,PAPER SCISSORS\obj\Debug\ROCK,PAPER SCISSORS.exe
+C:\Users\aaron\source\repos\ROCK,PAPER SCISSORS\ROCK,PAPER SCISSORS\obj\Debug\ROCK,PAPER SCISSORS.pdb
+C:\Users\aaron\source\repos\ROCK,PAPER SCISSORS\ROCK,PAPER SCISSORS\obj\Debug\ROCK_PAPER_SCISSORS.Start.resources
