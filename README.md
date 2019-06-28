@@ -1,2 +1,2 @@
-# Public Code
+# Snake 1P version *NOROYALTY*
 Finished Projects/WIP
